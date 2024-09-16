@@ -17,7 +17,7 @@
 - Java with NetBeans and IntelliJ IDEA
 - SQL with MySQL and Microsoft SQL Server
 - GIT basic usage
-- Spring basic usage
+- Spring basic usage (for API RESTFUL services)
 
 <table border="0">
     <tr>
