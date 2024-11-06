@@ -1,23 +1,26 @@
 <div align="center">
-<h1>&#128512 Hi, welcome to my GitHub profile! <p>I'm Sebastián</p></h1>
+<h1>&#128512 Hola, bienvenido a mi perfil de GitHub! <p>Soy Sebastián</p></h1>
 <img width="40px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 
-<p>Here you will find examples of projects I have worked on, as well as information about my skills and experience. If you are looking for a backend trainee developer with the right attitude, talent and willingness, don't hesitate to contact me. I would love the opportunity to talk to you about how we can work together! &#128188</p>
+<p>Aquí encontrarás ejemplos de proyectos en los que he trabajado, así como información sobre mis intereses, habilidades y experiencia. &#128188</p>
 
 
 <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" width="400" height="300"/>
 </div>
 
-## About me
+## Acerca de Mí
 
-<p>I am a recent graduate of the Universidad Mexiquense del Bicentenario with a degree in computer science, I am passionate about technology since I was 9 years old and I have been interested in the IT area since I was 15. I have taken some courses during my journey as a technical professional and university studies, during my experience in this area I have acquired a particular interest in backend development and I would love to focus my professional progress in it.</p>
+<p>Soy un API developer Trainee parte de Talent In House en SPS. Me apasiona la tecnología y particularmente la programación, me interesa formarme profesionalmente como desarrollador Backend</p>
 
-## My skills
+## Mi Rol en SPS
+Actualmente haciendo Shadowing, con la responsabilidad de capacitarme en el desarrollo de APIs.
+
+## Habilidades y Expertise
 
 - POO
-- Java with NetBeans and IntelliJ IDEA
-- SQL with MySQL and Microsoft SQL Server
-- GIT basic usage
-- Spring basic usage (for API RESTFUL services)
+- Java
+- SQL
+- GIT
+- Spring (En desarrollo de APIs)
 
 <table border="0">
     <tr>
@@ -32,10 +35,20 @@
     </tr>
 </table>
 
-<p>You can click <a href="https://mega.nz/folder/cz5HnLYQ#oWe8Qg9C9G-ieaY5RMzBlw">HERE</a> to see my certificates</p>
+## Cómo Colaboro
+<p>Me gusta trabajar de forma paralela en el desarrollo de proyectos, siempre manteniendo una buena comunicación con el equipo y asosiados.</p>
+
+<p>Puedes dar clic <a href="https://mega.nz/folder/cz5HnLYQ#oWe8Qg9C9G-ieaY5RMzBlw">AQUÍ</a> para ver mis constancias y certificados.</p>
+
+## Contacto
+<p>Correo Electrónico:</p> 
+<p>sgonzaleze@spsolutions.com.mx</p>
+<p>LinkedIn:</p> 
+<p>https://www.linkedin.com/in/sebasti%C3%A1n-mart%C3%ADn-gonz%C3%A1lez-escalera-b33212275/</p>
+
 <br>
 
-## My best projects
+## Mis mejores proyectos
 <table>
 <tr>
 <td width="50%">
